@@ -2,8 +2,6 @@
 
 Enterprise GenAI Metadata Intelligence Assistant built on Azure Databricks using Unity Catalog, Delta Lake, and Retrieval-Augmented Generation (RAG).
 
----
-
 ## Executive Summary
 
 Large-scale data platforms often struggle with metadata discoverability. 
@@ -18,8 +16,6 @@ Data engineers and analysts face challenges in understanding:
 This project implements a Retrieval-Augmented Generation (RAG) system that enables conversational querying of Unity Catalog metadata in a governed and auditable manner.
 
 The system integrates enterprise metadata with LLM-powered intelligence while maintaining governance, access control, and observability.
-
----
 
 ## Architecture Overview
 
