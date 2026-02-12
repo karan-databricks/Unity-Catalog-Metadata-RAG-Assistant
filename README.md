@@ -1,2 +1,3 @@
 # enterprise-rag-databricks
-Enterprise Retrieval-Augmented Generation (RAG) system built on Azure Databricks using Delta Lake and Vector Search.
+Enterprise GenAI Metadata Intelligence Assistant built on Azure Databricks using Unity Catalog, Delta Lake, and Retrieval-Augmented Generation (RAG).
+.
