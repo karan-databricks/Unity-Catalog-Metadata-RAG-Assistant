@@ -26,26 +26,6 @@ The system integrates enterprise metadata with LLM-powered intelligence while ma
 ### System Architecture Diagram:
 ![Unity Catalog Metadata RAG Architecture](architecture/unity_catalog_metadata_rag_architecture.png)
 
-Unity Catalog Metadata  
-↓  
-Metadata Extraction Pipeline (Spark)  
-↓  
-Delta Metadata Repository  
-↓  
-Chunking & Embedding Pipeline  
-↓  
-Vector Search Index  
-↓  
-Retriever (Top-K + Metadata Filtering)  
-↓  
-Prompt Construction  
-↓  
-LLM Inference  
-↓  
-Audit Logging (Delta)
-
----
-
 ## Key Capabilities
 
 - Conversational querying of table and column metadata
