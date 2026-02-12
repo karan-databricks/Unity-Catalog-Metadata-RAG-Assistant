@@ -23,7 +23,8 @@ The system integrates enterprise metadata with LLM-powered intelligence while ma
 
 ## Architecture Overview
 
-The system follows an enterprise-grade GenAI architecture:
+### System Architecture Diagram:
+![Unity Catalog Metadata RAG Architecture](architecture/unity_catalog_metadata_rag_architecture.png)
 
 Unity Catalog Metadata  
 ↓  
